@@ -1,2 +1,2 @@
 # Algorithms
-A safe to practice your algorithms
+A safe place to practice your algorithms
