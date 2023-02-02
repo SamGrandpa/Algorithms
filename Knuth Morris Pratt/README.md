@@ -5,10 +5,21 @@ Don't know [Knuth-Morris-Pratt algorithm](https://en.wikipedia.org/wiki/Knuth–
 
 An example of how to run the file on anaconda prompt:
 ```python
->python kmp.py Sorangium cellulosum.fasta ATG -b
+>python kmp.py Sorangium cellulosum.fasta ATG
 ```
 
 This example can only run with at least two inputs.
-first input: fasta file
-second input: pattern to be searched
-third input(optional): specifies the type of algorithms (-b for brute-force, blank for kmp)
+
+First input: fasta file
+
+Second input: pattern to be searched
+
+Third input (optional): specifies the type of algorithms
+blank for kmp
+```python
+>python kmp.py Sorangium cellulosum.fasta ATG
+```
+-b for brute-force
+```python
+>python kmp.py Sorangium cellulosum.fasta ATG -b
+```
