@@ -1,2 +1,2 @@
 # Algorithms
-A safe place to practice your algorithms
+A wonderland of happiness, joy and algorithms.
