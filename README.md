@@ -1,2 +1,2 @@
 # Algorithms
-A wonderland of happiness, joy and algorithms.
+A wonderland full of happiness, joy and algorithms.
